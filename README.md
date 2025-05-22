@@ -7,20 +7,6 @@ A comprehensive interactive web application built with **Dash and Plotly** to vi
 ![Plotly](https://img.shields.io/badge/Plotly-4.14.1-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Data Source](#data-source)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
-
 ## ✨ Features
 
 ### 📊 Interactive Data Visualization
